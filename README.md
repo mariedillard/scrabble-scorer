@@ -11,14 +11,11 @@ _A console program that let's you input a word and determines it's scrabble scor
 The desired (and achieved) goal is that if a user inputs a word, the program outputs it's score as if it was in a game of scrabble.
 
 *Each letter represents a score in scrabble.*
-| Tier | Letters | Number |
-| ---- | ------- | ------ |
-| First | A, E, I, O, U, L, N, R, S, T | 1 |
-| Second | B, C, M, P | 3 |
-| Third | F, H, V, W, Y | 4 |
-| Fourth | K | 5 |
-| Fifth | J, X | 8 |
-| Sixth | Q, Z | 10 |
+* "A, E, I, O, U, L, N, R, S, T" = 1
+* "B, C, M, P " = 3 : "F, H, V, W, Y " = 4
+* "K" = 5
+* "J, X" = 8
+* "Q, Z" = 10
 
 Example: "A" "1"
 The program adds the numbers together and gives you a sum.
