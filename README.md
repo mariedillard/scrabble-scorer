@@ -17,11 +17,15 @@ The desired (and achieved) goal is that if a user inputs a word, the program out
 * "J, X" = 8
 * "Q, Z" = 10
 
-Example: "A" "1"
+Example: "A" = "1"
+
 The program adds the numbers together and gives you a sum.
-Example: "a, e, i, o, u" "5"
+
+Example: "a, e, i, o, u" = "5"
+
 The program processes lower and upper case.
-Example: "hEy" "9"
+
+Example: "hEy" =  "9"
 
 ## Setup/Installation Requirements
 * _Requires C#_
