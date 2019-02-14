@@ -1,0 +1,8 @@
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore/obj/Debug/netcoreapp1.1/scrabbleScore.csproj.CoreCompileInputs.cache
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore/obj/Debug/netcoreapp1.1/scrabbleScore.AssemblyInfoInputs.cache
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore/obj/Debug/netcoreapp1.1/scrabbleScore.AssemblyInfo.cs
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore/bin/Debug/netcoreapp1.1/scrabbleScore.deps.json
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore/bin/Debug/netcoreapp1.1/scrabbleScore.dll
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore/bin/Debug/netcoreapp1.1/scrabbleScore.pdb
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore/obj/Debug/netcoreapp1.1/scrabbleScore.dll
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore/obj/Debug/netcoreapp1.1/scrabbleScore.pdb

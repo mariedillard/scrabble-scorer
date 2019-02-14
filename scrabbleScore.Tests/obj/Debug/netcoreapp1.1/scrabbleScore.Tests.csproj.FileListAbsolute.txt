@@ -1,0 +1,15 @@
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/scrabbleScore.Tests.deps.json
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/scrabbleScore.Tests.runtimeconfig.json
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/scrabbleScore.Tests.runtimeconfig.dev.json
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/scrabbleScore.Tests.dll
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/scrabbleScore.Tests.pdb
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/scrabbleScore.dll
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/bin/Debug/netcoreapp1.1/scrabbleScore.pdb
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/obj/Debug/netcoreapp1.1/scrabbleScore.Tests.csproj.CoreCompileInputs.cache
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/obj/Debug/netcoreapp1.1/scrabbleScore.Tests.AssemblyInfoInputs.cache
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/obj/Debug/netcoreapp1.1/scrabbleScore.Tests.AssemblyInfo.cs
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/obj/Debug/netcoreapp1.1/scrabbleScore.Tests.dll
+/home/dell/Desktop/ScrabbleScorer.Solutions/scrabbleScore.Tests/obj/Debug/netcoreapp1.1/scrabbleScore.Tests.pdb
